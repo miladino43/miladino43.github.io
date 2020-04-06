@@ -1,10 +1,10 @@
 [
  {
   "username": "miladino43",
-  "name": null,
+  "name": "Milad B",
   "userimg": "https://avatars3.githubusercontent.com/u/6656729?v=4",
   "sort": "full_name",
-  "order": "asc",
+  "order": "desc",
   "includeFork": true,
   "theme": "dark.css",
   "types": [
